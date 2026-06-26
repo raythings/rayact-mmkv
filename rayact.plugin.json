@@ -1,0 +1,5 @@
+{
+  "name": "mmkv",
+  "lib": "rayact_mmkv",
+  "platforms": ["android", "ios", "darwin", "linux"]
+}
